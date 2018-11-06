@@ -2,7 +2,7 @@
 
 
 # Table of Contents
-1. [docker ps](#docker ps)
+1. [docker ps](#docker)
 2. [Example2](#example2)
 3. [Third Example](#third-example)
 
